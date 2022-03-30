@@ -1,0 +1,33 @@
+{
+    "name": "Jioswap",
+    "logoURI": "https://raw.githubusercontent.com/jioswap/token-list/master/assets/jio.svg",
+    "keywords": [
+      "jioswap",
+      "jioswapdex",
+      "defi"
+    ],
+    "timestamp": "2022-03-30T20:37:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 868455272153094,
+            "address": "0xb9731D6dFd8ec254295776b9F0A6e0347b22F997",
+            "name": "TEther USDT",
+            "symbol": "USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/jioswap/token-list/master/assets/asset_USDT.svg"
+          },
+          {
+            "chainId": 868455272153094,
+            "address": "0xb9731D6dFd8ec254295776b9F0A6e0347b22F997",
+            "name": "JioSwap Dao",
+            "symbol": "JIO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/jioswap/token-list/master/assets/jio.svg"
+          }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
