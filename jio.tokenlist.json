@@ -1,6 +1,6 @@
 {
     "name": "Jioswap",
-    "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/jio.svg",
+    "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/asset_jio.svg",
     "keywords": [
       "jioswap",
       "jioswapdex",
@@ -22,7 +22,7 @@
             "name": "JioSwap Dao",
             "symbol": "JIO",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/jio.svg"
+            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/asset_jio.svg"
           }
     ],
     "version": {
