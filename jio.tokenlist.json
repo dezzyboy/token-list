@@ -1,6 +1,6 @@
 {
     "name": "Jioswap",
-    "logoURI": "https://raw.githubusercontent.com/jioswap/token-list/main/assets/jio.svg",
+    "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/jio.svg",
     "keywords": [
       "jioswap",
       "jioswapdex",
@@ -14,15 +14,15 @@
             "name": "TEther USDT",
             "symbol": "USDT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/jioswap/token-list/main/assets/asset_USDT.svg"
+            "logoURI": "https://raw.githubusercontent.com/JioSwap/token-list/main/asstes/asset_usdt.svg"
           },
           {
             "chainId": 868455272153094,
-            "address": "0xb9731D6dFd8ec254295776b9F0A6e0347b22F997",
+            "address": "0xEBb9863a619B5DF1cAfA0De7C64aC1c0553285D5",
             "name": "JioSwap Dao",
             "symbol": "JIO",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/jioswap/token-list/main/assets/jio.svg"
+            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/jio.svg"
           }
     ],
     "version": {
