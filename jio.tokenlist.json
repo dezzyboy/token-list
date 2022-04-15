@@ -14,7 +14,7 @@
             "name": "TEther USDT",
             "symbol": "USDT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/JioSwap/token-list/main/asstes/asset_usdt.svg"
+            "logoURI": "https://raw.githubusercontent.com/JioSwap/token-list/main/assets/asset_usdt.svg"
           },
           {
             "chainId": 868455272153094,
