@@ -10,7 +10,7 @@
     "tokens": [
         {
             "chainId": 868455272153094,
-            "address": "0xb9731D6dFd8ec254295776b9F0A6e0347b22F997",
+            "address": "0xFF77EBB2981dCB46590D383C87f40811259CAC70",
             "name": "TEther USDT",
             "symbol": "USDT",
             "decimals": 18,
@@ -18,11 +18,27 @@
           },
           {
             "chainId": 868455272153094,
-            "address": "0xEBb9863a619B5DF1cAfA0De7C64aC1c0553285D5",
+            "address": "0x7397A6156320756b3Af250D191893C7FF89673A4",
             "name": "JioSwap Dao",
             "symbol": "JIO",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/asset_jio.svg"
+            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/jio.jpg"
+          },
+          {
+            "chainId": 868455272153094,
+            "address": "0x5f774D8713fF0e5E3579496e4c41b8fd8Be9a2B6",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/JioSwap/token-list/main/assets/usdc.jpg"
+          },
+          {
+            "chainId": 868455272153094,
+            "address": "0xBCa5910433f509Ac834d7b51a2A94F30c29aB056",
+            "name": "Dai StableCoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/dai.jpg"
           }
     ],
     "version": {
