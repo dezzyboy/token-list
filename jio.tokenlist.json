@@ -22,7 +22,7 @@
             "name": "JioSwap Dao",
             "symbol": "JIO",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/jio.jpg"
+            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/asset_jio.svg"
           },
           {
             "chainId": 868455272153094,
