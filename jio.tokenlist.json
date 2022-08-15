@@ -71,6 +71,62 @@
             "symbol": "BUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/busd.png"
+          },
+          {
+            "chainId": 71402,
+            "address": "0x8E019acb11C7d17c26D334901fA2ac41C1f44d50",
+            "name": "USDT (via Forcebridge from ETH)",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/JioSwap/token-list/main/assets/asset_usdt.svg"
+          },
+          {
+            "chainId": 71402,
+            "address": "0x893474456C475E738b13DdA824979bF7a355DE39",
+            "name": "DCKB (Via Godwoken Bridge From CKB)",
+            "symbol": "dCKB",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/ckb.png"
+          },
+          {
+            "chainId": 71402,
+            "address": "0x186181e225dc1Ad85a4A94164232bD261e351C33",
+            "name": "USDC (via Forcebridge from ETH)",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/JioSwap/token-list/main/assets/usdc.jpg"
+          },
+          {
+            "chainId": 71402,
+            "address": "0x2c9Fc6087875646112f66a3C92fEF2d158FAa76e",
+            "name": "DAI (via Forcebridge from ETH)",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/dai.jpg"
+          },
+          {
+            "chainId": 71402,
+            "address": "0x9E858A7aAEDf9FDB1026Ab1f77f627be2791e98A",
+            "name": "ETH (via Forcebridge from ETH)",
+            "symbol": "ETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/eth.png"
+          },
+          {
+            "chainId": 71402,
+            "address": "0xbadb9b25150ee75bb794198658a4d0448e43e528",
+            "name": "BNB (Via Force Bridge From BSC)",
+            "symbol": "BNB|bsc",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/bnb.png"
+          },
+          {
+            "chainId": 71402,
+            "address": "0x7538C85caE4E4673253fFd2568c1F1b48A71558a",
+            "name": "Wrapped CKB",
+            "symbol": "pCKB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/ckb.png"
           }
 
     ],
