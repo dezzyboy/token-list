@@ -47,6 +47,14 @@
             "symbol": "ETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/eth.png"
+          },
+          {
+            "chainId": 71401,
+            "address": "0xFB60eBF591bc5e363A24b67518339F0015Ad02eE",
+            "name": "Wrapped BNB",
+            "symbol": "BNB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/bnb.png"
           }
 
     ],
