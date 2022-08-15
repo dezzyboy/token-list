@@ -1,12 +1,12 @@
 {
-    "name": "Jioswap",
-    "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/asset_jio.svg",
+    "name": "dezzyboy",
+    "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/asset_jio.svg",
     "keywords": [
-      "jioswap",
-      "jioswapdex",
+      "dezzyboy",
+      "dezzyboydex",
       "defi"
     ],
-    "timestamp": "2022-03-30T20:37:00.000+00:00",
+    "timestamp": "2022-08-15T18:37:00.000+00:00",
     "tokens": [
         {
             "chainId": 71401,
@@ -14,15 +14,15 @@
             "name": "TEther USDT",
             "symbol": "USDT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/JioSwap/token-list/main/assets/asset_usdt.svg"
+            "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/asset_usdt.svg"
           },
           {
             "chainId": 71401,
             "address": "0xb5727223892A38d2Ef7Ca7365dcaC9970A63E82e",
-            "name": "JioSwap Dao",
+            "name": "dezzyboy Dao",
             "symbol": "JIO",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/asset_jio.svg"
+            "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/asset_jio.svg"
           },
           {
             "chainId": 71401,
@@ -30,7 +30,7 @@
             "name": "USD Coin",
             "symbol": "USDC",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/JioSwap/token-list/main/assets/usdc.jpg"
+            "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/usdc.jpg"
           },
           {
             "chainId": 71401,
@@ -38,7 +38,7 @@
             "name": "Dai StableCoin",
             "symbol": "DAI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/dai.jpg"
+            "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/dai.jpg"
           },
           {
             "chainId": 71401,
@@ -46,7 +46,7 @@
             "name": "ETHer",
             "symbol": "ETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/eth.png"
+            "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/eth.png"
           },
           {
             "chainId": 71401,
@@ -54,7 +54,7 @@
             "name": "Wrapped BNB",
             "symbol": "BNB",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/bnb.png"
+            "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/bnb.png"
           },
           {
             "chainId": 71401,
@@ -62,7 +62,7 @@
             "name": "Wrapped CKB",
             "symbol": "pCKB",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/ckb.png"
+            "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/ckb.png"
           },
           {
             "chainId": 71401,
@@ -70,15 +70,15 @@
             "name": "Binance USD",
             "symbol": "BUSD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/busd.png"
+            "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/busd.png"
           },
           {
             "chainId": 71402,
             "address": "0x8E019acb11C7d17c26D334901fA2ac41C1f44d50",
-            "name": "USDT (via Forcebridge from ETH)",
+            "name": "USDT",
             "symbol": "USDT",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/JioSwap/token-list/main/assets/asset_usdt.svg"
+            "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/asset_usdt.svg"
           },
           {
             "chainId": 71402,
@@ -86,31 +86,31 @@
             "name": "DCKB (Via Godwoken Bridge From CKB)",
             "symbol": "dCKB",
             "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/ckb.png"
+            "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/ckb.png"
           },
           {
             "chainId": 71402,
             "address": "0x186181e225dc1Ad85a4A94164232bD261e351C33",
-            "name": "USDC (via Forcebridge from ETH)",
+            "name": "USDC",
             "symbol": "USDC",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/JioSwap/token-list/main/assets/usdc.jpg"
+            "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/usdc.jpg"
           },
           {
             "chainId": 71402,
             "address": "0x2c9Fc6087875646112f66a3C92fEF2d158FAa76e",
-            "name": "DAI (via Forcebridge from ETH)",
+            "name": "DAI",
             "symbol": "DAI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/dai.jpg"
+            "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/dai.jpg"
           },
           {
             "chainId": 71402,
             "address": "0x9E858A7aAEDf9FDB1026Ab1f77f627be2791e98A",
-            "name": "ETH (via Forcebridge from ETH)",
+            "name": "ETH",
             "symbol": "ETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/eth.png"
+            "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/eth.png"
           },
           {
             "chainId": 71402,
@@ -118,7 +118,7 @@
             "name": "BNB (Via Force Bridge From BSC)",
             "symbol": "BNB|bsc",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/bnb.png"
+            "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/bnb.png"
           },
           {
             "chainId": 71402,
@@ -126,13 +126,21 @@
             "name": "Wrapped CKB",
             "symbol": "pCKB",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/ckb.png"
+            "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/ckb.png"
+          },
+          {
+            "chainId": 71402,
+            "address": "0x81206A83Df57cA79DbF1371Ffdd9CEd1cafA5E17",
+            "name": "LINK",
+            "symbol": "LINK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/link.svg"
           }
 
     ],
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 0
+      "patch": 1
     }
   }
