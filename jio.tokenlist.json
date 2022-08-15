@@ -63,6 +63,14 @@
             "symbol": "pCKB",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/ckb.png"
+          },
+          {
+            "chainId": 71401,
+            "address": "0x31D56EA29aEded3A17f0304301D5d4E3074d6049",
+            "name": "Binance USD",
+            "symbol": "BUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/busd.png"
           }
 
     ],
