@@ -39,7 +39,16 @@
             "symbol": "DAI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/dai.jpg"
+          },
+          {
+            "chainId": 71401,
+            "address": "0x0902574C86aEc810B727fD08Aa186DBC20579c08",
+            "name": "ETHer",
+            "symbol": "ETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/eth.png"
           }
+
     ],
     "version": {
       "major": 1,
