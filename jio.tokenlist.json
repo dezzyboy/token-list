@@ -55,6 +55,14 @@
             "symbol": "BNB",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/bnb.png"
+          },
+          {
+            "chainId": 71401,
+            "address": "0xE05d380839f32bC12Fb690aa6FE26B00Bd982613",
+            "name": "Wrapped CKB",
+            "symbol": "pCKB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Jioswap/token-list/main/assets/ckb.png"
           }
 
     ],
