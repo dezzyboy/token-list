@@ -90,7 +90,7 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/usdc.jpg"
+      "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/usdc.svg"
     },
     {
       "chainId": 71402,
@@ -98,7 +98,7 @@
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/dai.jpg"
+      "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/dai.svg"
     },
     {
       "chainId": 71402,
@@ -106,7 +106,7 @@
       "name": "ETH",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/eth.png"
+      "logoURI": "https://raw.githubusercontent.com/dezzyboy/token-list/main/assets/eth.svg"
     },
     {
       "chainId": 71402,
